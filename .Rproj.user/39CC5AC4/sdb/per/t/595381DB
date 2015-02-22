@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"HelloWorld\"\nauthor: \"Xiaoqing Yang\"\ndate: \"Saturday, February 21, 2015\"\noutput: html_document\n---\n\n## This is a markdown file",
+    "created" : 1424581863909.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2105331986",
+    "id" : "595381DB",
+    "lastKnownWriteTime" : 1424581893,
+    "path" : "~/GitHub/datasciencecoursera/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
